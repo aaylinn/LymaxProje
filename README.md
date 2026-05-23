@@ -12,5 +12,3 @@ npm run build        # TypeScript'i dist/ klasörüne derle
 npm run start:prod   # Derlenmiş üretim yapısını çalıştır
 npm run lint         # ESLint ile otomatik düzeltme
 npm run format       # Prettier ile biçimlendirme
-
-
