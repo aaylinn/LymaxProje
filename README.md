@@ -8,12 +8,9 @@ NestJS, TypeScript ve MongoDB ile geliştirilmiştir, JWT kimlik doğrulaması v
 - İstek Doğrulama — `class-validator` ile otomatik DTO doğrulaması
 - 
 ## Komutlar
-
-```bash
 npm run build        # TypeScript'i dist/ klasörüne derle
 npm run start:prod   # Derlenmiş üretim yapısını çalıştır
 npm run lint         # ESLint ile otomatik düzeltme
 npm run format       # Prettier ile biçimlendirme
-```
----
+
 
